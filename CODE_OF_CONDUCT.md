@@ -1,34 +1,80 @@
 Código de Conduta da Middle X
 =======
 
-A comunidade Middle X se esforça para ser um espaço inclusivo e acolhedor para todos. Para garantir uma experiência positiva para todos os membros, pedimos que todos sigam este código de conduta:
+A comunidade Middle X se esforça para ser um espaço inclusivo e acolhedor para todos. Para garantir uma experiência positiva para todos os membros, pedimos que todos sigam este código de conduta.
 
-## 1. Respeito e Empatia
+## Nosso compromisso
 
-Respeite todos os membros da comunidade, independentemente de sua origem, identidade de gênero, orientação sexual, habilidades, experiência ou crenças. Seja gentil, atencioso e empático com os outros participantes.
+Nós, como membros, colaboradores e líderes, nos comprometemos a tornar a participação em nossa comunidade uma experiência livre de assédio para todos, independentemente da idade, tamanho do corpo, deficiência visível ou invisível, etnia, características sexuais, identidade e expressão de gênero, nível de experiência, educação , status socioeconômico, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.
 
-## 2. Comunicação Construtiva
+Comprometemo-nos a agir e interagir de forma a contribuir para uma comunidade aberta, acolhedora, diversa, inclusiva e saudável.
 
-Promova uma comunicação construtiva e respeitosa. Evite linguagem ofensiva, ataques pessoais, discriminação, assédio ou qualquer forma de comportamento inadequado. Lembre-se de que palavras têm poder e podem afetar as outras pessoas.
+## Nossos Padrões
 
-## 3. Colaboração e Cooperação
+Exemplos de comportamento que contribuem para um ambiente positivo para nossa comunidade incluem:
 
-Encorajamos a colaboração e a cooperação entre os membros da comunidade. Compartilhe conhecimento, experiências e ideias de forma construtiva. Esteja disposto a ajudar e ser ajudado, criando um ambiente de aprendizado mútuo.
+- Demonstrar empatia e bondade para com outras pessoas
+- Ser respeitoso com as diferentes opiniões, pontos de vista e experiências
+- Dar e aceitar graciosamente feedback construtivo
+- Aceitar a responsabilidade e pedir desculpas aos afetados por nossos erros e aprender com a experiência
+- Focando no que é melhor não apenas para nós como indivíduos, mas para a comunidade em geral
 
-## 4. Respeito à Privacidade e Propriedade Intelectual
+Exemplos de comportamento inaceitável incluem:
 
-Respeite a privacidade e os direitos de propriedade intelectual dos outros. Não compartilhe informações pessoais sem consentimento e dê crédito adequado quando utilizar o trabalho de terceiros.
+- O uso de linguagem ou imagens sexualizadas e atenção ou avanços sexuais de qualquer tipo
+- Trolling, comentários insultuosos ou depreciativos e ataques pessoais ou políticos
+- Assédio público ou privado
+- Publicar informações privadas de outras pessoas, como um endereço físico ou de e-mail, sem sua permissão explícita
+- Outra conduta que possa ser razoavelmente considerada inadequada em um ambiente profissional
 
-## 5. Cumprimento das Leis e Regulamentos
+## Responsabilidades de execução
 
-Cumpra todas as leis e regulamentos aplicáveis durante sua participação na comunidade. Não se envolva em atividades ilegais ou que violem os direitos dos outros.
+Os líderes comunitários são responsáveis por esclarecer e fazer cumprir nossos padrões de comportamento aceitável e tomarão medidas corretivas apropriadas e justas em resposta a qualquer comportamento que considerem inapropriado, ameaçador, ofensivo ou prejudicial.
 
-## 6. Relate Comportamentos Inadequados
+Os líderes da comunidade têm o direito e a responsabilidade de remover, editar ou rejeitar comentários, confirmações, códigos, edições wiki, problemas e outras contribuições que não estejam alinhadas com este Código de Conduta e comunicarão os motivos das decisões de moderação quando apropriado.
 
-Se você presenciar ou for vítima de comportamentos inadequados, denuncie-os aos administradores da comunidade imediatamente. Estamos comprometidos em manter um ambiente seguro e tomar as medidas adequadas para lidar com qualquer violação deste código de conduta.
+## Escopo
 
-## 7. Consequências para Violações
+Este Código de Conduta se aplica a todos os espaços comunitários e também se aplica quando um indivíduo representa oficialmente a comunidade em espaços públicos. Exemplos de representação de nossa comunidade incluem o uso de um endereço de e-mail oficial, postagem por meio de uma conta de mídia social oficial ou atuação como representante nomeado em um evento online ou offline.
 
-Violadores deste código de conduta podem ser sujeitos a medidas disciplinares, incluindo advertências, restrição de acesso à comunidade ou até mesmo banimento temporário ou permanente.
+## Execução
 
-Agradecemos sua cooperação em tornar a comunidade Middle X um espaço inclusivo e enriquecedor para todos os membros. Juntos, podemos construir uma comunidade vibrante e respeitosa.
+Instâncias de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser relatadas aos líderes da comunidade responsáveis pela aplicação em abuse at middlex.com.br. Todas as reclamações serão analisadas e investigadas prontamente e de forma justa.
+
+Todos os líderes comunitários são obrigados a respeitar a privacidade e a segurança do relator de qualquer incidente.
+
+## Diretrizes de aplicação
+
+Os líderes da comunidade seguirão estas Diretrizes de impacto na comunidade ao determinar as consequências de qualquer ação que considerem violar este Código de Conduta:
+
+### 1. Correção
+
+**Impacto na comunidade** : Uso de linguagem imprópria ou outro comportamento considerado não profissional ou indesejável na comunidade.
+
+**Consequência** : Uma advertência escrita privada dos líderes da comunidade, esclarecendo a natureza da violação e explicando por que o comportamento foi inadequado. Um pedido público de desculpas pode ser solicitado.
+
+### 2. Aviso
+
+**Impacto na Comunidade** : Uma violação por meio de um único incidente ou uma série de ações.
+
+**Consequência** : Um aviso com consequências para o comportamento continuado. Nenhuma interação com as pessoas envolvidas, incluindo interação não solicitada com aqueles que aplicam o Código de Conduta, por um período de tempo especificado. Isso inclui evitar interações em espaços comunitários, bem como canais externos, como mídias sociais. A violação desses termos pode levar a um banimento temporário ou permanente.
+
+### 3. Banimento Temporário
+
+**Impacto na comunidade** : Uma violação grave dos padrões da comunidade, incluindo comportamento inapropriado contínuo.
+
+**Consequência** : Uma proibição temporária de qualquer tipo de interação ou comunicação pública com a comunidade por um período de tempo especificado. Nenhuma interação pública ou privada com as pessoas envolvidas, incluindo interação não solicitada com aqueles que aplicam o Código de Conduta, é permitida durante este período. A violação desses termos pode levar a um banimento permanente.
+
+### 4. Banimento Permanente
+
+**Impacto na comunidade** : Demonstrar um padrão de violação dos padrões da comunidade, incluindo comportamento inapropriado contínuo, assédio de um indivíduo ou agressão ou depreciação de classes de indivíduos.
+
+**Consequência** : Uma proibição permanente de qualquer tipo de interação pública dentro da comunidade.
+
+## Atribuição
+
+Este Código de Conduta foi adaptado do [Contributor Covenant](https://www.contributor-covenant.org/) , versão 2.0, disponível em  https://www.contributor-covenant.org/version/2/0/code_of_conduct.html .
+
+As diretrizes de impacto na comunidade foram inspiradas na [escada de aplicação do código de conduta da Mozilla](https://github.com/mozilla/diversity) .
+
+Para obter respostas a perguntas comuns sobre este código de conduta, consulte as perguntas frequentes em  https://www.contributor-covenant.org/faq . As traduções estão disponíveis em  https://www.contributor-covenant.org/translations .
